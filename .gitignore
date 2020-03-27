@@ -1,1 +1,10 @@
 .idea
+.project
+.gradle/5.2.1/fileHashes/fileHashes.lock
+.gradle/buildOutputCleanup/buildOutputCleanup.lock
+.settings/org.eclipse.buildship.core.prefs
+.gradle/buildOutputCleanup/buildOutputCleanup.lock
+.gradle/5.2.1/fileHashes/fileHashes.lock
+.gradle/5.2.1/fileHashes/fileHashes.lock
+.classpath
+bin/test/Test.class
